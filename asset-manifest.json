@@ -1,9 +1,9 @@
 {
-  "main.css": "/bgd/static/css/main.7207628c.chunk.css",
-  "main.js": "/bgd/static/js/main.54997c81.chunk.js",
-  "main.js.map": "/bgd/static/js/main.54997c81.chunk.js.map",
-  "static/js/1.01c0e5aa.chunk.js": "/bgd/static/js/1.01c0e5aa.chunk.js",
-  "static/js/1.01c0e5aa.chunk.js.map": "/bgd/static/js/1.01c0e5aa.chunk.js.map",
+  "main.css": "/bgd/static/css/main.1c1bef9f.chunk.css",
+  "main.js": "/bgd/static/js/main.97d8c978.chunk.js",
+  "main.js.map": "/bgd/static/js/main.97d8c978.chunk.js.map",
+  "static/js/1.5ca94f12.chunk.js": "/bgd/static/js/1.5ca94f12.chunk.js",
+  "static/js/1.5ca94f12.chunk.js.map": "/bgd/static/js/1.5ca94f12.chunk.js.map",
   "runtime~main.js": "/bgd/static/js/runtime~main.9c47663e.js",
   "runtime~main.js.map": "/bgd/static/js/runtime~main.9c47663e.js.map",
   "static/media/City remove.svg": "/bgd/static/media/City remove.642e2171.svg",
@@ -3713,8 +3713,8 @@
   "static/media/violin.svg": "/bgd/static/media/violin.a82eec4d.svg",
   "static/media/heart-minus.svg": "/bgd/static/media/heart-minus.6fa2a956.svg",
   "static/media/heart-plus.svg": "/bgd/static/media/heart-plus.6f5fdc70.svg",
-  "static/css/main.7207628c.chunk.css.map": "/bgd/static/css/main.7207628c.chunk.css.map",
+  "static/css/main.1c1bef9f.chunk.css.map": "/bgd/static/css/main.1c1bef9f.chunk.css.map",
   "index.html": "/bgd/index.html",
-  "precache-manifest.5ed0b3aa3ba0ffd6f6b6fd006bf14cb6.js": "/bgd/precache-manifest.5ed0b3aa3ba0ffd6f6b6fd006bf14cb6.js",
+  "precache-manifest.df1749f0a2f8dd4483ab0069c2c22120.js": "/bgd/precache-manifest.df1749f0a2f8dd4483ab0069c2c22120.js",
   "service-worker.js": "/bgd/service-worker.js"
 }
