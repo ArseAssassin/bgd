@@ -1,7 +1,7 @@
 {
   "main.css": "/bgd/static/css/main.003c7713.chunk.css",
-  "main.js": "/bgd/static/js/main.dd960a21.chunk.js",
-  "main.js.map": "/bgd/static/js/main.dd960a21.chunk.js.map",
+  "main.js": "/bgd/static/js/main.4fadcba6.chunk.js",
+  "main.js.map": "/bgd/static/js/main.4fadcba6.chunk.js.map",
   "static/js/1.3a0d9225.chunk.js": "/bgd/static/js/1.3a0d9225.chunk.js",
   "static/js/1.3a0d9225.chunk.js.map": "/bgd/static/js/1.3a0d9225.chunk.js.map",
   "runtime~main.js": "/bgd/static/js/runtime~main.9c47663e.js",
@@ -3715,6 +3715,6 @@
   "static/media/heart-plus.svg": "/bgd/static/media/heart-plus.6f5fdc70.svg",
   "static/css/main.003c7713.chunk.css.map": "/bgd/static/css/main.003c7713.chunk.css.map",
   "index.html": "/bgd/index.html",
-  "precache-manifest.bfff94a5296afd76afbd4a530a685a72.js": "/bgd/precache-manifest.bfff94a5296afd76afbd4a530a685a72.js",
+  "precache-manifest.8e30e321621ddfe6c13487d565b91668.js": "/bgd/precache-manifest.8e30e321621ddfe6c13487d565b91668.js",
   "service-worker.js": "/bgd/service-worker.js"
 }
