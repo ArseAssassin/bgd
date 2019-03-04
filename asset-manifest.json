@@ -1,7 +1,7 @@
 {
-  "main.css": "/bgd/static/css/main.77991188.chunk.css",
-  "main.js": "/bgd/static/js/main.f003b2f9.chunk.js",
-  "main.js.map": "/bgd/static/js/main.f003b2f9.chunk.js.map",
+  "main.css": "/bgd/static/css/main.96ae123a.chunk.css",
+  "main.js": "/bgd/static/js/main.d2de0147.chunk.js",
+  "main.js.map": "/bgd/static/js/main.d2de0147.chunk.js.map",
   "static/js/1.93d01e80.chunk.js": "/bgd/static/js/1.93d01e80.chunk.js",
   "static/js/1.93d01e80.chunk.js.map": "/bgd/static/js/1.93d01e80.chunk.js.map",
   "runtime~main.js": "/bgd/static/js/runtime~main.9c47663e.js",
@@ -3713,8 +3713,8 @@
   "static/media/violin.svg": "/bgd/static/media/violin.a82eec4d.svg",
   "static/media/heart-minus.svg": "/bgd/static/media/heart-minus.6fa2a956.svg",
   "static/media/heart-plus.svg": "/bgd/static/media/heart-plus.6f5fdc70.svg",
-  "static/css/main.77991188.chunk.css.map": "/bgd/static/css/main.77991188.chunk.css.map",
+  "static/css/main.96ae123a.chunk.css.map": "/bgd/static/css/main.96ae123a.chunk.css.map",
   "index.html": "/bgd/index.html",
-  "precache-manifest.510f7f58b89dbffdcfb9cea06781b4ac.js": "/bgd/precache-manifest.510f7f58b89dbffdcfb9cea06781b4ac.js",
+  "precache-manifest.052ba432e8b34557172184e34ac11583.js": "/bgd/precache-manifest.052ba432e8b34557172184e34ac11583.js",
   "service-worker.js": "/bgd/service-worker.js"
 }
