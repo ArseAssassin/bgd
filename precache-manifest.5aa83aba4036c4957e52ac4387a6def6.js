@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/bgd/static/media/level-four-advanced.81e8a0c1.svg"
   },
   {
-    "revision": "4fadcba662d0d2b8cefc",
-    "url": "/bgd/static/css/main.003c7713.chunk.css"
+    "revision": "d91a04862d8774bd2026",
+    "url": "/bgd/static/css/main.80c0e545.chunk.css"
   },
   {
-    "revision": "3a0d92259e2d83aacc5e",
-    "url": "/bgd/static/js/1.3a0d9225.chunk.js"
+    "revision": "c8d47333e7f7efdad7c4",
+    "url": "/bgd/static/js/1.c8d47333.chunk.js"
   },
   {
     "revision": "9c47663e0652d7424003",
@@ -13604,8 +13604,8 @@ self.__precacheManifest = [
     "url": "/bgd/static/media/lava.276761f1.svg"
   },
   {
-    "revision": "4fadcba662d0d2b8cefc",
-    "url": "/bgd/static/js/main.4fadcba6.chunk.js"
+    "revision": "d91a04862d8774bd2026",
+    "url": "/bgd/static/js/main.d91a0486.chunk.js"
   },
   {
     "revision": "80637ad69fab1a4248dedac37cf53294",
@@ -15036,7 +15036,7 @@ self.__precacheManifest = [
     "url": "/bgd/static/media/heart-plus.6f5fdc70.svg"
   },
   {
-    "revision": "f9963add9326d5fb02991655bfb6cd70",
+    "revision": "e062034ffbe8509814611fd0661bc1be",
     "url": "/bgd/index.html"
   }
 ];
